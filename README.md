@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 Currently working on the next project for my [YouTube Channel](https://www.youtube.com/channel/UCgzDyB6FRT2sNhh0QhB7gtQ)
 - 💻 I am also very passionate about Tech
 - 🎯 My next goal is to learn C and build a Linux Distro
-- 👯 Be sure to contact me via Instagram if you want to collab on this!
+- 👯 Be sure to contact me via Instagram or email [here](mailto:tminustech1@gmail.com) if you want to collab on this!
