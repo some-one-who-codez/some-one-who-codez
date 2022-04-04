@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > - 📸 Check out my [Instagram](https://www.instagram.com/some.one.who.codez/)
 >   - 🧠 Learn Programming Fundamentals
-    - 💻 Weekly Posts
+>   - 💻 Weekly Posts
 > -🔗 Check out my [linktree](https://linktr.ee/some.one.who.codez)!
 > - 🔭 If you want more content you can visit my [YouTube Channel](https://www.youtube.com/channel/UCgzDyB6FRT2sNhh0QhB7gtQ)
 > - 💻 I am very passionate about Tech and Programming
